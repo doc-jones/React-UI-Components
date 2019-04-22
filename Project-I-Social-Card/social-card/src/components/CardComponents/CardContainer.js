@@ -1,11 +1,10 @@
 import React from 'react';
 import './Card.css';
 
-const CardContainer = () => {
+function CardContainer() {
     return (
         <div className="ccontainer">
-
-
+        
         </div>
     )
 }

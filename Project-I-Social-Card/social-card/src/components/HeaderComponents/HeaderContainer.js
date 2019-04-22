@@ -6,13 +6,11 @@ import './HeaderContent.js'
 function HeaderContainer() {
     return (
         <div className='header'>
-        <CardContainer />
-        <CardContent />
+        <HeaderTitle />
+        <HeaderContent />
         </div>
     )
 }
-
-
 
 
 export default HeaderContainer
