@@ -3,8 +3,8 @@ import './Card.css';
 
 function CardContainer() {
     return (
-        <div className="ccontainer">
-        
+        <div className="cardContainer">
+
         </div>
     )
 }
