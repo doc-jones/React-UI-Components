@@ -1,6 +1,6 @@
 /* All styles for your Card Components live here */
 
-.ccontainer {
+.cardContainer {
     max-width: "760px";
     margin: 0, auto;
 }
@@ -16,3 +16,7 @@
     height: 100%;
     padding: 0 60px;
   }
+
+.cardBanner {
+
+}
