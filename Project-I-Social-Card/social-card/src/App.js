@@ -1,5 +1,18 @@
 import React from 'react';
 import './App.css';
+import Header from "./components/Header/HeaderContainer.js"
+import MainContent from "./components/MainContent/MainContent.js"
+import Footer from "./components/Footer/Footer.js"
+
+function App() {
+    return (
+        <div>
+            <Header />
+            <MainContent />
+            <Footer />
+        </div>
+    )
+}
 
 const App = () => {
   return (
