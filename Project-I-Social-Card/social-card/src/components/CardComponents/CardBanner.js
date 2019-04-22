@@ -4,7 +4,7 @@ import './Card.css';
 function CardBanner() {
     return (
         <div>
-            
+            <img src=""></img>
 
         </div>
     )
