@@ -3,9 +3,9 @@ import './Header.css';
 import './HeaderTitle.js'
 import './HeaderContent.js'
 
-const HeaderContainer = () => {
+function HeaderContainer() {
     return (
-        <div>
+        <div className='header'>
         
         </div>
     )

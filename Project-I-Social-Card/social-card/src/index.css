@@ -6,7 +6,9 @@
   --send-message-form: #F5F5F5;
 }
 
-
+#root {
+  height: 100%;
+}
 
 
 html, body {
