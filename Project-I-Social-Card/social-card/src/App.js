@@ -1,18 +1,19 @@
+
 import React from 'react';
 import './App.css';
-import Header from "./components/HeaderComponents/HeaderContainer.js"
-import MainContent from "./components/MainContentComponents/MainContent.js"
-import Footer from "./components/FooterComponents/Footer.js"
+import HeaderContainer from './components/HeaderComponents/HeaderContainer';
+import CardContainer from './components/CardComponents/CardContainer';
 
-function App() {
-    return (
-        <div className="app">
-            <Header />
-            <MainContent />
-            <Footer />
-        </div>
-    )
-}
+const App = () => {
+  return (
+    <div className="card-container">
+      <HeaderContainer />
+      <CardContainer />
+    </div>
+  );
+};
+
+export default App;
 
 // const App = () => {
 //   return (
