@@ -13,7 +13,7 @@ const App = () => {
   );
 };
 
-export default App;
+
 
 // const App = () => {
 //   return (
@@ -34,5 +34,6 @@ export default App;
 //     </div>
 //   );
 // };
+
 
 export default App;
