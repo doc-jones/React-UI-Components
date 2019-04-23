@@ -8,9 +8,3 @@ body {
   font-family: sans-serif;
 }
 
-.calculator {
-  max-width: 400px;
-  margin: 0 auto;
-  border: 2px solid black;
-  border-radius: 5px;
-}
